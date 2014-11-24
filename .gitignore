@@ -1,1 +1,6 @@
 *.exe
+$tfs
+Debug
+BuildProcessTemplates
+ipch
+*.log
